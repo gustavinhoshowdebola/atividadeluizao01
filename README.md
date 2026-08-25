@@ -6,7 +6,7 @@ Andre Barbosa
 Daniel Winharsky
 
 Professor:
-Luis Claudio
+Luis Claudio Leite 
 
 UC:
 Banco de Dados
