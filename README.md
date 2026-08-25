@@ -1,16 +1,15 @@
-# atividadeluizao01
+# **atividadeluizao01**
 
-Alunos: 
+**Alunos**: 
 Gustavo Jaques Mendes
 Andre Barbosa
 Daniel Winharsky
 
-Professor:
+**Professor**:
 Luis Claudio
 
-UC:
+**UC**:
 Banco de Dados
 
-Lista de Tarefas
-
+**Lista de Tarefas:**
 Aplicação web para organizar tarefas do dia a dia. O usuário pode adicionar novas taredas a uma lisra e marca-las como concluida.
