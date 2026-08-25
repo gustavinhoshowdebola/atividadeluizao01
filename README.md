@@ -5,8 +5,8 @@ Gustavo Jaques Mendes
 Andre Barbosa
 Daniel Winharsky
 
-**Professor**:
-Luis Claudio
+Professor:
+Luis Claudio Leite 
 
 **UC**:
 Banco de Dados
